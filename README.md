@@ -11,8 +11,8 @@ I have been fortunate enough to work with very large YouTube and Twitch content 
 *   😄  My pronouns are he/him.
 *   🌍  I'm based in England, UK.
 *   ✉️  You can contact me at [benfinnett@hotmail.co.uk](mailto:benfinnett@hotmail.co.uk).
-*   🚀  I'm currently working on [a front end web development project for University](http://google.com).
-*   🧠  I'm learning C#.
+*   🚀  I'm currently working on audio data analysis.
+*   🧠  I'm learning AI.
 *   🤝  I'm open to collaborating on anything!
 
 ### Skills 
