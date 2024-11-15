@@ -1,6 +1,6 @@
 # Hey there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30">, I'm Ben.
 
-### Student • Python Programmer • Project Manager
+### Software Engineer • Python Programmer • Project Manager
 
 I am always looking to learn new concepts, ideas, and knowledge to expand the breadth and depth of what I know. As a child I was familiarising myself with programming using Scratch, before moving onto Python in my teenage years at age 14. It's safe to say I have always had a passion for computers and technology. 
 
@@ -8,11 +8,7 @@ Since then I have dedicated my education to computer science and software design
 
 I have been fortunate enough to work with very large YouTube and Twitch content creators, managing projects to provide content and online gaming services for their communities. I've been the leader of a staff team of over 70 people from across the globe and have spearheaded multiple projects with thousands of dollars worth of investment.
 
-*   😄  My pronouns are he/him.
-*   🌍  I'm based in England, UK.
-*   🚀  I'm currently working on audio data analysis.
-*   🧠  I'm learning AI.
-*   🤝  I'm open to collaborating on anything!
+Currently, I am working as a Software Engineer consultant in the power industry, helping to provide electricity to the UK.
 
 ### Skills 
 <p align="left">
